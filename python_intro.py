@@ -1,7 +1,7 @@
 def hi(name):
    print("Hi"+ name+ "!")
 
-girls = ["Rachel","Monica","Phoebe","ola","Vonesha"]
+girls = ["Rachel","Monica","Phoebe","ola","star"]
 for name in girls:
     hi(name)
     print("Next girl")
